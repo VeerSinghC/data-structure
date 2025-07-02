@@ -7,4 +7,3 @@ def NB(n):
 
 number = int(input("Enter a number: "))
 print("Total bits = ", NB(number))
-    
